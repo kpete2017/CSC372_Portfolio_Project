@@ -1,0 +1,12 @@
+Name: Abby
+Address: 1665 S Westerly Way
+GPA: 2.7
+
+Name: Derek
+Address: 1234 Rose Court
+GPA: 4.0
+
+Name: Kyle
+Address: 2210 Worchester Way
+GPA: 3.5
+
